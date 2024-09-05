@@ -14,9 +14,6 @@ export default[
                 value:'❌ Practice Question'
             },
             {
-                value:'❌ Tubeguruji.Com Exlcusive App Access'
-            },
-            {
                 value:'❌ Email Support'
             },
         ]
@@ -25,7 +22,7 @@ export default[
         id:1,
         name:'Monthly',
         cost:7.99,
-        paymentLink:'https://buy.stripe.com/test_28o9EjbkvgfQ8VOeUV',
+        paymentLink:'https://buy.stripe.com/test_3cs042f1ogRWa3KcMM',
         offering:[
             {
                 value:'✔️ Create 3 Free Mock Interview'
@@ -35,9 +32,6 @@ export default[
             },
             {
                 value:'✔️ Practice Question'
-            },
-            {
-                value:'✔️ Tubeguruji.Com Exlcusive App Access'
             },
             {
                 value:'✔️ Email Support'
