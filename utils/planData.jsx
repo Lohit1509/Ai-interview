@@ -3,6 +3,7 @@ export default[
         id:1,
         name:'Free',
         cost:0,
+        paymentLink:'/dashboard',
         offering:[
             {
                 value:'✔️ Create 3 Free Mock Interview'
@@ -21,7 +22,7 @@ export default[
     {
         id:1,
         name:'Monthly',
-        cost:7.99,
+        cost:100,
         paymentLink:'https://buy.stripe.com/test_3cs042f1ogRWa3KcMM',
         offering:[
             {

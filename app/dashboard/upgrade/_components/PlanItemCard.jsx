@@ -14,9 +14,9 @@ function PlanItemCard({plan}) {
       </h2>
 
       <p className="mt-2 sm:mt-4">
-        <strong className="text-3xl font-bold text-gray-900 sm:text-4xl"> {plan.cost}$ </strong>
+        <strong className="text-3xl font-bold text-gray-900 sm:text-4xl"> ₹{plan.cost} </strong>
 
-        <span className="text-sm font-medium text-gray-700">/month</span>
+        <span className="text-sm font-medium text-gray-700">/Year</span>
       </p>
     </div>
 
