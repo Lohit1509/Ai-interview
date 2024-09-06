@@ -3,7 +3,7 @@ export default[
         id:1,
         name:'Free',
         cost:0,
-        paymentLink:'/dashboard',
+        paymentLink:'https://buy.stripe.com/test_3cs042f1obxC7VC8wy',
         offering:[
             {
                 value:'✔️ Create 3 Free Mock Interview'
